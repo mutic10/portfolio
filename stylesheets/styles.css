@@ -1,0 +1,61 @@
+body {
+  background-color: ;
+}
+
+ul  {
+  font-family: 'Muli', sans-serif;
+  text-align: right;
+
+}
+
+.header {
+  background-color: ;
+}
+
+.avila {
+  vw: 100;
+}
+
+.cordillera {
+  position: relative;
+}
+
+.cerro {
+  background-color: #fff;
+  height: 500;
+  width: 1200;
+  position: absolute;
+  z-index: 0;
+}
+
+
+h1 {
+  font-family: 'Muli', sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Muli', sans-serif;
+  font-size: 24px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Glegoo', serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+.nav-item {
+  font-family: 'Muli', sans-serif;
+  font-size: 24px;
+}
+
+.nav-link {
+  color: #243325;
+}
+
+.pad1 {
+  margin-bottom: 50px;
+}
